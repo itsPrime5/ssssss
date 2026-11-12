@@ -1,0 +1,6 @@
+{
+ "schemaVersion":1,"id":"undertide","version":"${version}","name":"The Undertide",
+ "description":"Megalophobia horror: the buried foundation beneath the Overworld.","authors":["Black Tide"],"environment":"*",
+ "entrypoints":{"main":["dev.blacktide.undertide.Undertide"],"client":["dev.blacktide.undertide.UndertideClient"]},
+ "depends":{"fabricloader":">=0.15.0","minecraft":"1.20.1","java":">=17","fabric-api":"*"}
+}
